@@ -564,8 +564,8 @@ footer p {
 }
 
 @media screen and (max-width:1199px) {
-    .about img {
-        width: 75%;
+    .col-md-6 .about {
+        width: 50%;
     }
 }
 
