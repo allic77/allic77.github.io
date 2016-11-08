@@ -563,6 +563,12 @@ footer p {
 
 }
 
+@media screen and (max-width:1199px) {
+    .about img {
+        width: 75%;
+    }
+}
+
 @media screen and (max-width:795px){
     #details h1, h2, p {
         padding-left: 0px;
