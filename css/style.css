@@ -567,9 +567,12 @@ footer p {
     .about img {
         width: 485px;
     }
+<<<<<<< HEAD
     .pic img {
         width: 485px;
     }
+=======
+>>>>>>> gh-pages
 }
 
 @media screen and (max-width:795px){
