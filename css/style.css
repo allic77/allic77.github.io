@@ -567,15 +567,15 @@ footer p {
     .about img {
         width: 485px;
     }
-<<<<<<< HEAD
-<<<<<<< HEAD
-    #details img {
+/*<<<<<<< HEAD
+<<<<<<< HEAD*/
+    .pic img {
         width: 535px;
     }
-=======
+/*=======
 >>>>>>> gh-pages
 =======
->>>>>>> gh-pages
+>>>>>>> gh-pages*/
 }
 
 @media screen and (max-width:795px){
