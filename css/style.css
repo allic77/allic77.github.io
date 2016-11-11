@@ -567,6 +567,9 @@ footer p {
     .about img {
         width: 485px;
     }
+    .pic img {
+        width: 485px;
+    }
 }
 
 @media screen and (max-width:795px){
